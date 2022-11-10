@@ -287,6 +287,8 @@ Resistencia máxima: 1.8KΩ + 180 = 1.98 KΩ
 [![42.png](https://i.postimg.cc/zXjX65x5/42.png)](https://postimg.cc/N5KcrhhP)
 
 44.- ¿Cuánta resistencia está midiendo el ohmímetro de la figura 2-75?
+
+ [![44.png](https://i.postimg.cc/Y9mt3D2m/44.png)](https://postimg.cc/1nsxRHq9)
  
      El ohmmetro esta midiendo 10KΩ
      
