@@ -1,10 +1,15 @@
 # Tareas-Fundacmentos-de-Circuitos-El-ctricos-NRC10063
 Estudiante: Jonathan Daniel Villarreal Manzano
 UNIVERSIDAD DE LAS FUERZAS ARMADAS-ESPE
+
 FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS	
+
 Tarea 1
+
 Nombre Estudiante: Jonathan Daniel Villarreal Manzano
+
 Fecha: 10 de Noviembre del 2022
+
 NRC: 10063
 
 OBJETIVOS
@@ -23,15 +28,20 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 Capitulo 1
 1.- Exprese cada uno de los siguientes números en notación científica: (a) 3000 (b) 75,000 (c) 2,000,000
 (a) 3 × 10 ^ 3, (b) 7.5 × 10 ^ 4, (c) 2 × 10 ^ 6
+
 3.- Exprese cada uno de los siguientes números en notación científica: (a) 8400 (b) 99,000 (c) 0.2x10 ^6
 (a) 8,4 × 10 ^ 3, (b) 9,9 × 10 ^ 4, (c) 2 × 10 ^ 5
+
 5.- Exprese cada uno de los siguientes números en notación científica: (a) 32x10 ^3 (b) 6800x10 ^-6 (c) 871 x10 ^8
 (a) 3,2 × 10 ^ 4, (b) 6,8 × 10 ^ (-3), (c) 8,71 × 10 ^ 10
+
 7.- Exprese cada uno de los números siguientes como un número decimal regular: (a) 2.5x10 ^-6, (b) 5.0 x10 ^2, (c) 3.9 x10 ^-1
 (a) 0,0000025, (b) 500, (c) 0,39
+
 9.- Sume los siguientes números:
 [![9.png](https://i.postimg.cc/9f8P1dj5/9.png)](https://postimg.cc/p9jnLnTq)
 (a) 4.32×10〗^7, (b) 5.00085×〖10〗^3, (c) 6.06×〖10〗^(-8)
+
 11.- Realice las siguientes multiplicaciones:
 [![11.png](https://i.postimg.cc/s2qQvwrX/11.png)](https://postimg.cc/QBgxzgVG)
 (a) 2 × 10 ^ 9, (b) 3,6 × 10 ^ 14, (c) 1,54 × 10 ^ (-14)     
@@ -46,6 +56,7 @@ Capitulo 1
 (a) 7.1×〖10〗^(-3), (b) 101×〖10〗^6, (c) 1.5×〖10〗^6     
 19.- Divida los siguientes números y exprese cada resultado en notación de ingeniería:
 [![19.png](https://i.postimg.cc/Gm0b8VB6/19.png)](https://postimg.cc/gnKC1MHK)
+
 (a) 22 × 10 ^ (-3), (b) 200 × 10 ^ 6, (c) 848 × 10 ^ (-3)       
 21.- Exprese cada número del problema 15 en amperios por medio de un prefijo métrico.
 [![15.png](https://i.postimg.cc/hvPBgR57/15.png)](https://postimg.cc/ph77Y4x2)
