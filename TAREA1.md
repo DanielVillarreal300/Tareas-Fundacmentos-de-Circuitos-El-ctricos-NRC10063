@@ -1,4 +1,4 @@
-# Tareas-Fundacmentos-de-Circuitos-El-ctricos-NRC10063
+# Tareas-Fundamentos-de-Circuitos-Electricos-NRC10063
 Estudiante: Jonathan Daniel Villarreal Manzano
 
 UNIVERSIDAD DE LAS FUERZAS ARMADAS-ESPE
