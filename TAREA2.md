@@ -1,10 +1,15 @@
 # Tareas-Fundacmentos-de-Circuitos-El-ctricos-NRC10063
 Estudiante: Jonathan Daniel Villarreal Manzano
 UNIVERSIDAD DE LAS FUERZAS ARMADAS-ESPE
+
 FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS	
+
 Tarea 1
+
 Nombre Estudiante: Jonathan Daniel Villarreal Manzano
+
 Fecha: 10 de Noviembre del 2022
+
 NRC: 10063
 
 OBJETIVOS
