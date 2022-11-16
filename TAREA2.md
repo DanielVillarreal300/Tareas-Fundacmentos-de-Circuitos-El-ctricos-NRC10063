@@ -67,6 +67,8 @@ V=I×R
 5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, 
 en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica 
 una línea recta? ¿Qué indica la gráfica?
+
+[![5.png](https://i.postimg.cc/vB2Y6z5M/5.png)](https://postimg.cc/xJHDwLsF)
  
 I=V/R=0V/100Ω=0A               I=V/R=10V/100Ω=0.1A
 
@@ -80,12 +82,15 @@ I=V/R=80V/100Ω=0.8A         I=V/R=90V/100Ω=0.9A
 
 I=V/R=100V/100Ω=1A
  
+ [![5-1.png](https://i.postimg.cc/fbwD2FKD/5-1.png)](https://postimg.cc/18Yk4v2j)
+ 
      Se puede observar en la gráfica de voltaje vs corriente que se obtiene una línea recta, esto permite concluir que el 
      voltaje es directamente proporcional a la corriente. 
    
    
 7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3.
  
+ [![7.png](https://i.postimg.cc/Z5J52CbG/7.png)](https://postimg.cc/dLSFTQT6)
      Para encontrar las resistencias se escoge cualquier punto de cada recta y se divide voltaje sobre corriente:
      
 R_1=V/I=2V/4A=0.5Ω
@@ -93,7 +98,6 @@ R_1=V/I=2V/4A=0.5Ω
 R_2=V/I=3V/3A=1Ω
 
 R_3=V/I=4V/2A=2Ω 
-
 
 9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo.
 
@@ -111,6 +115,7 @@ I=V/R=80V/1.58KΩ=0.05A         I=V/R=90V/1.58KΩ=0.057A
 
 I=V/R=100V/1.58KΩ=0.063A   
  
+ [![7-1.png](https://i.postimg.cc/2SXNG6VF/7-1.png)](https://postimg.cc/v49KHG7c)
  
 11.- Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa 
 que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. 
@@ -172,7 +177,7 @@ I=V/R=70V/100Ω=0.7A         I=V/R=80V/100Ω=0.8A
 
 I=V/R=90V/100Ω=0.9A         I=V/R=100V/100Ω=1A
 
- 
+ [![13.png](https://i.postimg.cc/KzPW6vvW/13.png)](https://postimg.cc/VrN4Mwt9)
  
 15.- Determine la corriente en cada caso:
 (a)5V, 1Ω   (b)15V, 10Ω  (c)50V, 100Ω   (d)30V, 15KΩ   (e)250V, 5.6MΩ
@@ -268,6 +273,8 @@ R=0.075Ω
 representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, 
 ¿cuál es la resistencia de su filamento cuando está encendida?
  
+ [![31.png](https://i.postimg.cc/yYkP98Cz/31.png)](https://postimg.cc/VdPnP1N7)
+ 
 R=V/I=120V/0.8A=150Ω
 
 
@@ -275,6 +282,7 @@ R=V/I=120V/0.8A=150Ω
 El ajuste del reóstato es tal que la corriente es de 750mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar 
 la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?
 
+[![33.png](https://i.postimg.cc/HWP0p1cv/33.png)](https://postimg.cc/xqMNR7PL)
  
 (a) R=V/I=100V/750mA=133.33Ω  
 
@@ -444,6 +452,7 @@ W=P×t=3.2W×86400s=276480[ J]o [ Ws]
 
 VIDEO
 
+https://www.youtube.com/watch?v=v8-dHCUXoeg 
 
 CONCLUSIONES
 
