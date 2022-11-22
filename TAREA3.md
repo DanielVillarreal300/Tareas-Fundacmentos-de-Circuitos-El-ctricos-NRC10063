@@ -43,3 +43,7 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 Capítulo 5
 
+1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.
+2. 
+![image](https://user-images.githubusercontent.com/116780175/203438539-56e7c7f2-78e7-4725-817d-bfdfd2635b2f.png)
+
