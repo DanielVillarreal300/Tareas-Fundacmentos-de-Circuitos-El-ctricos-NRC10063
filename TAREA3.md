@@ -44,6 +44,33 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 Capítulo 5
 
 1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.
-2. 
+
 ![image](https://user-images.githubusercontent.com/116780175/203438539-56e7c7f2-78e7-4725-817d-bfdfd2635b2f.png)
+
+3- Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68.
+ 
+ ![image](https://user-images.githubusercontent.com/116780175/203442391-b62aa3ca-af02-45b4-9786-50b61e3d4a86.png)
+ 
+     Se calcula la resistencia total que circula por 1 y 8. Rt=R13+R7+R14+R16
+     
+5- En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores 
+en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.
+ 
+ ![image](https://user-images.githubusercontent.com/116780175/203442571-48d98481-55fa-4b37-b6b4-9e6af693c861.png)
+
+Camino en serie 1: R10, R1, R7, R8
+
+Camino en serie 2: R6, R2, R4, R11
+
+Camino en serie 3: R12, R9, R3, R5
+
+7- La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?
+ 
+ ![image](https://user-images.githubusercontent.com/116780175/203442594-45d96f4d-37a7-4b73-ba17-c212bd22fbca.png)
+ 
+     La corriente no varía en un circuito en serie, solo el voltaje, por ende, cada miliamperímetro marcará 5 Ma. 
+     
+9- Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través de cualquier lámpara,
+de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de control. Trace el diagrama esquemático.
+
 
