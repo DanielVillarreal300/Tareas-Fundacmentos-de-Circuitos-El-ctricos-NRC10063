@@ -613,6 +613,8 @@ Corto entre las clavijas 3 y 4:
 
 VIDEO
 
+https://www.youtube.com/watch?v=WZnuyJhGlxQ
+
 CONCLUSIONES
 
 	     Mediante la recopilación de información en un resumen se pudo comprender conceptos básicos de circuitos eléctricos, 
