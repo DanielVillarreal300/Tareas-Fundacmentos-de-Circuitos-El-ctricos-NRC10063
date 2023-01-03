@@ -114,6 +114,48 @@ Capítulo 9
 
 ![image](https://user-images.githubusercontent.com/116780175/210381767-514429db-5f3b-40fc-9463-07bcd56fd1ad.png)
 
+![image](https://user-images.githubusercontent.com/116780175/210385213-7874f0ba-9946-4289-962f-c2dda1307f52.png)
+
+![image](https://user-images.githubusercontent.com/116780175/210385254-d68ebdd0-3d19-455d-9c04-ec9448bfc14f.png)
+
+![image](https://user-images.githubusercontent.com/116780175/210385309-8de31e3e-5bfa-4c98-8b4c-897303a6097c.png)
+
+![image](https://user-images.githubusercontent.com/116780175/210385382-eb9b690d-54c5-4930-a64a-c5aa5f9d413a.png)
+
+![image](https://user-images.githubusercontent.com/116780175/210385429-c23ae2dd-f63e-4c38-adef-b463d1884297.png)
+
+![image](https://user-images.githubusercontent.com/116780175/210385478-f298f058-9408-494c-b6e7-d5c42e38994c.png)
+
+![image](https://user-images.githubusercontent.com/116780175/210385518-17a7699a-2071-410f-a141-90bbeba9fa7a.png)
+
+![image](https://user-images.githubusercontent.com/116780175/210385581-8c626a03-1239-449e-b714-21d71f4627c3.png)
+
+![image](https://user-images.githubusercontent.com/116780175/210385672-6be851af-a5d5-4f06-baa3-cd9b8631eb53.png)
+
+VIDEO
+
+https://www.youtube.com/watch?v=0ak2LIbMDYQ 
+
+CONCLUSIONES
+
+•	     Mediante la recopilación de información en un resumen se pudo comprender conceptos básicos de circuitos eléctricos como análisis
+de ramas, lazos y nodos; junto a teoría de magnetismo y electromagnetismo, mismos que son fundamentales al momento de analizar circuitos
+con cargas y sus propiedades. 
+
+•	       En la resolución de ejercicios se pudo repasar los temas leídos y sintetizados con anterioridad, rellenando vacíos teóricos para
+obtener bases sustentadas sobre circuitos eléctricos. 
+
+•	     En conclusión, la electricidad y el magnetismo es un fenómeno de la naturaleza que mediante la evolución del conocimiento permitió
+a la humanidad utilizarla a su beneficio de la mano de la ingeniería en la búsqueda de la automatización tecnológica, y en este caso en el
+análisis y entendimiento de circuitos eléctricos. 
+
+BIBLIOGRAFÍA
+
+Franco, A. (2020). Magnetismo y electromagnetismo. BBVA.  https://www.bbva.com/es/sostenibilidad/que-es-y-como-calcular-la-potencia-electrica/
+
+Floyd, T. (2007). Principios de circuitos eléctricos. (8va edición). PEARSON EDUCACIÓN, S.A.
+
+
 
 
 
