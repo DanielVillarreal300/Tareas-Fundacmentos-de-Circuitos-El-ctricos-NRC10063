@@ -40,5 +40,7 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 Capítulo 9
 
+![image](https://user-images.githubusercontent.com/116780175/210379395-1e50ab77-be06-4c09-a650-4a604b9256a0.png)
+
 
 
