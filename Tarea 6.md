@@ -61,4 +61,9 @@ Capítulo 11
 
 ![image](https://user-images.githubusercontent.com/116780175/211714092-99051b16-a1e4-4ef9-92a9-f1d860be6193.png)
 
+![image](https://user-images.githubusercontent.com/116780175/211719456-688d3bc1-453c-4dce-a5c8-7091bb063936.png)
+
+![image](https://user-images.githubusercontent.com/116780175/211719542-f53bf6c4-d1c2-4591-a734-cac27e244ae3.png)
+
+![image](https://user-images.githubusercontent.com/116780175/211719674-e07c37c3-e5ee-4b6f-8cc2-523a636f0c82.png)
 
