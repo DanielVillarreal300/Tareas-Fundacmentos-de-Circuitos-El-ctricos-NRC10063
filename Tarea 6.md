@@ -101,4 +101,8 @@ Capítulo 12
 
 ![image](https://user-images.githubusercontent.com/116780175/212190723-07d0ed6a-5341-4c9c-a636-a4da01369b1a.png)
 
+![image](https://user-images.githubusercontent.com/116780175/212190833-44ff9209-16b7-44ee-a82d-8e34c77ae071.png)
+
+![image](https://user-images.githubusercontent.com/116780175/212190879-f4623ef6-6fab-4243-8d46-dbdf2cbaa853.png)
+
 
