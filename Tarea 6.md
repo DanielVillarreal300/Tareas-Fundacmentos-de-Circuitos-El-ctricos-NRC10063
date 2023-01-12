@@ -35,6 +35,8 @@ MARCO TEÓRICO
 
 •	Resumen Capítulo 12: “Capacitores”
 
+![image](https://user-images.githubusercontent.com/116780175/212189934-40075ef9-6f31-4247-b9af-db2bb8b16693.png)
+
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 Capítulo 11
@@ -72,4 +74,31 @@ Capítulo 11
 ![image](https://user-images.githubusercontent.com/116780175/211724685-15fa158a-438d-42ae-88b7-0c359f42d6fd.png)
 
 ![image](https://user-images.githubusercontent.com/116780175/211724765-25648241-ea65-43e0-9887-07a92aba3468.png)
+
+Capítulo 12
+
+![image](https://user-images.githubusercontent.com/116780175/212190116-516ee5f1-182d-4220-90dd-3ae73cd09ece.png)
+
+![image](https://user-images.githubusercontent.com/116780175/212190160-8c51cce1-1626-41c6-b626-f054fa74d342.png)
+
+![image](https://user-images.githubusercontent.com/116780175/212190199-1607d922-e54b-4a78-ae3f-f0993c56054b.png)
+
+![image](https://user-images.githubusercontent.com/116780175/212190246-67f5bd3d-462a-4015-bc33-909c6a1836e0.png)
+
+![image](https://user-images.githubusercontent.com/116780175/212190320-09bcf58c-80e8-4033-b46d-bcca7643c871.png)
+
+![image](https://user-images.githubusercontent.com/116780175/212190372-27a2e129-7b6c-4e28-991c-e8486ca062ed.png)
+
+![image](https://user-images.githubusercontent.com/116780175/212190470-7d5ad87f-f4cb-47bc-bb12-678f309a0f8b.png)
+
+![image](https://user-images.githubusercontent.com/116780175/212190531-4ac63583-b322-47a5-ab9b-5af6155974aa.png)
+
+![image](https://user-images.githubusercontent.com/116780175/212190587-673b6106-61b0-4ae4-a608-2ea2bc22c633.png)
+
+![image](https://user-images.githubusercontent.com/116780175/212190634-758e608f-2e5d-4b3b-86bd-ba66446f3889.png)
+
+![image](https://user-images.githubusercontent.com/116780175/212190679-5b0f3def-cf3f-4f9f-9dcb-2dab751189cb.png)
+
+![image](https://user-images.githubusercontent.com/116780175/212190723-07d0ed6a-5341-4c9c-a636-a4da01369b1a.png)
+
 
