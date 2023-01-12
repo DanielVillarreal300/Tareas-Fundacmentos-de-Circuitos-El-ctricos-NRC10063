@@ -109,4 +109,25 @@ Capítulo 12
 
 ![image](https://user-images.githubusercontent.com/116780175/212191051-a48cde0a-2411-4282-9769-89f1fbc74ad5.png)
 
+VIDEO
+
+CONCLUSIONES
+
+•	     Mediante la recopilación de información en un resumen se pudo comprender conceptos básicos de circuitos eléctricos como
+introducción a la corriente y al voltaje alternos, junto a Capacitores, mismos que son fundamentales al momento de analizar circuitos
+con cargas y sus propiedades. 
+
+•	       En la resolución de ejercicios se pudo repasar los temas leídos y sintetizados con anterioridad, rellenando vacíos teóricos
+para obtener bases sustentadas sobre circuitos eléctricos. 
+
+•	     En conclusión, la electricidad es un fenómeno de la naturaleza que mediante la evolución del conocimiento permitió a la humanidad
+utilizarla a su beneficio de la mano de la ingeniería en la búsqueda de la automatización tecnológica, y en este caso en el análisis y
+entendimiento de circuitos eléctricos. 
+
+BIBLIOGRAFÍA
+
+Franco, A. (2020). Capacitores. BBVA.  https://www.bbva.com/es/sostenibilidad/que-es-y-como-calcular-la-potencia-electrica/
+
+Floyd, T. (2007). Principios de circuitos eléctricos. (8va edición). PEARSON EDUCACIÓN, S.A.
+
 
