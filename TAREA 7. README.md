@@ -43,10 +43,6 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ![image](https://user-images.githubusercontent.com/116780175/215345825-9ac47b17-753f-4a53-aa33-38687ad7ef5b.png)
 
-![image](https://user-images.githubusercontent.com/116780175/215345853-f178d2ec-480d-4424-a0a8-a2a6e7d4a1d6.png)
 
-![image](https://user-images.githubusercontent.com/116780175/216184927-3f520c88-0bf4-4227-a4a2-1a93612b4bab.png)
-
-![image](https://user-images.githubusercontent.com/116780175/216184978-68063dba-8a1d-42d3-a996-9a6e722c9893.png)
 
 
