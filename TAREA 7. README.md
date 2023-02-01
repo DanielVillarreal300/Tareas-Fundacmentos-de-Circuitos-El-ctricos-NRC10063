@@ -68,6 +68,7 @@ VIDEO
 https://youtu.be/JOXd7Zo0wec
 
 CONCLUSIONES
+
 •	     Mediante la recopilación de información en un resumen se pudo comprender conceptos básicos de circuitos eléctricos
 como Inductores y Transformadores, mismos que son fundamentales al momento de analizar circuitos con cargas y sus propiedades. 
 
