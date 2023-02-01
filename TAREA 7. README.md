@@ -49,17 +49,4 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ![image](https://user-images.githubusercontent.com/116780175/216184978-68063dba-8a1d-42d3-a996-9a6e722c9893.png)
 
-![image](https://user-images.githubusercontent.com/116780175/216185107-f16247b7-8658-480d-a297-c97e879b8eea.png)
-
-![image](https://user-images.githubusercontent.com/116780175/216185145-23de9949-297e-4313-af77-007e182111a0.png)
-
-![image](https://user-images.githubusercontent.com/116780175/216185181-e3746267-be8d-489a-95d1-5f0195cb2ae6.png)
-
-![image](https://user-images.githubusercontent.com/116780175/216185222-0dc9bc4e-f8ce-41cb-97b1-10af90ac3364.png)
-
-![image](https://user-images.githubusercontent.com/116780175/216185258-b538f20d-7b28-4dcf-99ec-931221f780b2.png)
-
-![image](https://user-images.githubusercontent.com/116780175/216185331-08b5bbe3-309d-4ee5-adc5-ede8a4d7c9a0.png)
-
-![image](https://user-images.githubusercontent.com/116780175/216185399-683dc2cf-e4fa-4f98-a99b-6d61ef1efc3c.png)
 
