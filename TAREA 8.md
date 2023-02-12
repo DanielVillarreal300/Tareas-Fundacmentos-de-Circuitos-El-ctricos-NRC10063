@@ -93,4 +93,66 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ![image](https://user-images.githubusercontent.com/116780175/218328371-0853e007-4bd7-4f0e-8ada-9c656032e8e5.png)
 
+![image](https://user-images.githubusercontent.com/116780175/218328445-2de1ded3-b9fb-4d17-bfdb-ce641af32bde.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328458-2d03e568-c24a-4913-aeab-27cefa26af09.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328474-ef9e1254-3140-4fec-a51f-5b713d97debb.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328484-071970a8-4be9-4c08-a167-a7278ca5243e.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328488-8cbe6651-1da2-49a6-b4cf-5194b190be9e.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328499-1d71fa6e-5322-465f-947e-60a7674abef4.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328502-a566f178-01fb-4405-8953-2921de5fe16c.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328511-1826eaed-f322-4b92-8787-2bd019db4924.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328525-44ec06fc-45ab-45d0-b80e-242c919175e3.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328533-ea61831c-c49b-46ef-86f8-47a620b6722e.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328544-5cbe7cd2-fb15-4868-97fd-0376e51372da.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328553-e73a422f-a145-4117-a5a7-5d82bb77bcf4.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328566-d21b9417-bd04-4caf-a30c-7647ead4e36e.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328575-35a7caf3-a5a3-40c8-b89b-e3b600c07fb9.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328583-419c9786-3db2-44dd-92e8-667bc965af84.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328594-f2781cff-f942-46e9-95fa-3864cb07d8bc.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328605-c8319fa5-96eb-4855-a33c-1766b48f3d70.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328613-6d130bc0-91c2-4ec4-90dd-0717ca9b9a93.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328624-a5e25270-bee2-410c-8c34-e47ffdb05091.png)
+
+![image](https://user-images.githubusercontent.com/116780175/218328633-b1847152-ba7b-4b66-b55e-1ca69669c2c8.png)
+
+VIDEO
+
+CONCLUSIONES
+
+•	     Mediante la recopilación de información en un resumen se pudo comprender conceptos básicos de circuitos eléctricos como
+Circuitos RC y RL, mismos que son fundamentales al momento de analizar circuitos con cargas y sus propiedades. 
+
+•	       En la resolución de ejercicios se pudo repasar los temas leídos y sintetizados con anterioridad, rellenando vacíos teóricos
+para obtener bases sustentadas sobre circuitos eléctricos. 
+
+•	     En conclusión, la electricidad y magnetismo son un fenómeno de la naturaleza que mediante la evolución del conocimiento permitió
+a la humanidad utilizarla a su beneficio de la mano de la ingeniería en la búsqueda de la automatización tecnológica, y en este caso
+en el análisis y entendimiento de circuitos eléctricos. 
+
+BIBLIOGRAFÍA
+
+Franco, A. (2020). Circuitos RC y RL. BBVA.  https://www.bbva.com/es/sostenibilidad/que-es-y-como-calcular-la-potencia-electrica/
+
+Floyd, T. (2007). Principios de circuitos eléctricos. (8va edición). PEARSON EDUCACIÓN, S.A.
+
+
+
 
