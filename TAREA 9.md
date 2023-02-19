@@ -126,6 +126,8 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 VIDEO
 
+https://www.youtube.com/watch?v=tskSgTCrvFg
+
 CONCLUSIONES
 
 •	     Mediante la recopilación de información en un resumen se pudo comprender conceptos básicos de circuitos eléctricos como
