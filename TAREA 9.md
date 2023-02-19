@@ -39,4 +39,12 @@ MARCO TEÓRICO
 
 •	Resumen Capítulo 18: “Filtros pasivos”
 
+![image](https://user-images.githubusercontent.com/116780175/219973623-3c0d7565-eee4-4b55-9dce-003ae7d0bf97.png)
+
+
+EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+Capítulo 17
+
+
 
